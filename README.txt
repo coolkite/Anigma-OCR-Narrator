@@ -6,8 +6,8 @@ This program loads an image of a page, extracts text using machine learning, and
 
 To run, execute app.py
 
-There are included packages to make running this program easier. cv2, googletrans, gtts, gtts_token, pydub, and pytesseract, pygame_gui are all third-party libraries included in the directory that are not created by the initial owners. These aid in OCR, narration, and translation. Other third-party libaries include numpy and pygame for processing. 
+Third party libraries used in the program are as follows: cv2, googletrans, gtts, gtts_token, pydub, and pytesseract, pygame_gui. These aid in OCR, narration, and translation. Other third-party libaries include numpy and pygame for processing. These were not created by the original authors.
 
-orlib is our own program.
+orlib is our own library.
 
 By Henry Zhang, Divyansh Shivashok, Ryan Weiner
