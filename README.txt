@@ -11,3 +11,4 @@ Third party libraries used in the program are as follows: cv2, googletrans, gtts
 orlib is our own library.
 
 By Henry Zhang, Divyansh Shivashok, Ryan Weiner
+[![Run on Repl.it](https://repl.it/badge/github/coolkite/Anigma-OCR-Narrator)](https://repl.it/github/coolkite/Anigma-OCR-Narrator)
